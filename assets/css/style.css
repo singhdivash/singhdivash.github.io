@@ -702,6 +702,10 @@ footer .social a:hover { background-position: left top; }
     font-style: italic;
 }
 
+.team .row {
+    padding-left: 32%;
+}
+
 
 /********** ----- CONTACT PAGE ----- **********/
 
