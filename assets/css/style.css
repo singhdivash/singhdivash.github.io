@@ -17,7 +17,8 @@ body {
     font-size: 12px;
 }
 
-.violet { color: rgb(235, 148, 255); }
+.violet { color: rgb(200, 128, 216); 
+font-weight: bold;}
 
 a {
     color: #f8e5ee;
