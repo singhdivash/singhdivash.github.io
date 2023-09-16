@@ -17,7 +17,7 @@ body {
     font-size: 12px;
 }
 
-.violet { color: #f07bb0; }
+.violet { color: rgb(235, 148, 255); }
 
 a {
     color: #f8e5ee;
@@ -84,7 +84,7 @@ strong { font-weight: bold; }
 }
 
 .header ul.nav li a:hover {
-    background: #ffa9cf;
+    background: rgb(235, 148, 255);
     color: #fff;
 }
 
